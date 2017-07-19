@@ -47,7 +47,13 @@
                             <p>{{$rec->tgl_balik}}</p>
                         </td>
                         <td>
-                            <p>{{$rec->perpanjangan}}</p>
+                            <?php
+                            if($rec->perpanjangan == 0){
+                                echo "Belum pernah melakukan perpanjangan";
+                            }else{
+                                echo"<p> $rec->perpanjangan</p>";
+                            }
+                            ?>
                         </td>
                         <td>
                             <p>{{$rec->status}}</p>

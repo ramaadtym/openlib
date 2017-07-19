@@ -15,6 +15,11 @@
                     <strong>Maaf!</strong> {{session()->get('waduh')}}.
                 </div>
                 @endif
+                @if(session()->has('sip'))
+                        <div class="alert alert-info">
+                            <strong>Selamat!</strong> {{session()->get('sip')}}.
+                        </div>
+                @endif
     <h3 class="col-md-6 col-sm-8" style="margin: 0px;height:40px;padding-top:10px;margin-bottom:25px;"><strong>Katalog Terbaru</strong>
         <small><strong>114.735</strong> koleksi dari <strong>71.712</strong> judul telah tersedia!</small>
     </h3>

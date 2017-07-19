@@ -6,6 +6,7 @@ use App\Register;
 use App\Login;
 use App\Logpts;
 
+use App\SetBuku;
 use Faker\Provider\DateTime;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
@@ -67,7 +68,7 @@ class IndexController extends Controller
         $encript = bcrypt($request->password);
         $save->password = $encript;
         if (Register::where('username', '=', $request->username)->exists()) {
-            echo "username sudah terdaftar";
+            $request->session()->flash('waduh', 'Username sudah terdaftar!.');
         }
         else{
             $save->save();
@@ -76,7 +77,22 @@ class IndexController extends Controller
             $get_id = $pilih->id;
             $create_log->id = $get_id;
             $create_log->save();
-            echo "<script type = 'text/javascript'>alert('Username berhasil didaftarkan!'); window.location = '/';</script>";
+
+
+            $book = DB::table('book')->select('id_book')->get();
+            $tgl1 = date("Y-m-d");
+            $pinjam = date('Y-m-d', strtotime('+7 days', strtotime($tgl1)));
+
+            foreach ($book as $buku){
+                $setBook = new SetBuku;
+                $setBook->id = $get_id;
+                $setBook->id_book = $buku->id_book;
+                $setBook->tgl_pinjam = $tgl1;
+                $setBook->tgl_balik = $pinjam;
+                $setBook->save();
+            }
+            $request->session()->flash('sip', 'Username berhasil di daftarkan!');
+            return redirect()->intended('/');
         }
 
 
