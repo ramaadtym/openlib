@@ -371,7 +371,38 @@ tr td:first-child, tr td:last-child{
 
 .dropdown:hover .dropdown-content {
   display: block;
+
+}
+.dropdown-content a {
+  text-decoration: none;
+}
+.dropdown-content a:hover {
+  color:#FFF;
+}
+.dropdown-content:hover {
+  background:#626056;
 }
 .exit{
   margin-top:2%;
+}
+.poin > thead > tr >th{
+  border-bottom:none;
+}
+.poin > tbody > tr:first-child > td{
+  border-top:2px solid #FFF;
+}
+.poin > tbody > tr > td{
+  text-align: left;
+}
+.table > tbody > tr > td{
+  border-top: 2px solid #FFF;
+}
+.poin > thead:first-child > tr:first-child > th{
+  width: 2%;
+}
+.poin > tbody > tr:last-child{
+  border-bottom: 2px solid #FFF;
+}
+.poin > tbody >tr > td, .poin > thead > tr > th{
+  padding: 2%;
 }

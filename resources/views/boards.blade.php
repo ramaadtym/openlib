@@ -117,6 +117,7 @@
             ]
         });
         $('#all').DataTable();
+        $('#cara').DataTable();
         var variants = {
             'reward': {
                 args: [
@@ -146,14 +147,49 @@
             'poin': {
                 args: [
                     {
-                        title: 'Poin Kamu Kurang? atau tidak punya poin sama sekali? Kalem aja, ikuti aturan dibawah ini ya!',
+                        title: 'Cara Mendapatkan Poin',
                         content:
-                        '<ol>' +
+                        /*'<ol>' +
                         '   <li>Pastikan kamu sudah memiliki akun Open Library (gunakan akun SSO Khusus civitas akademika Tel-U, jika belum punya, silakan daftar telebih dahulu)</li>' +
                         '   <li>Lakukan aktivitas seperti kunjungan ke perpustakaan, peminjaman buku, dan ruang diskusi untuk mendapatkan poin.</li>' +
                         '   <li>Semakin banyak aktivitas yang kamu lakukan di Open Library, semakin besar kesempatan kamu mendapatkan hadiah.</li>' +
                         '</ol>' +
-                        '<h4>Gampang banget kan? Tunggu apalagi? Kunjungi Openlibrary Tel-U Sekarang!</h4>'
+                        '<h4>Gampang banget kan? Tunggu apalagi? Kunjungi Openlibrary Tel-U Sekarang!</h4>'*/
+                        '<p>Beberapa Aktivitas untuk memperoleh poin :</p> '+
+                        '<div class="table-responsive">'+
+                            '<table class="table poin">'+
+                                '<thead>'+
+                                    '<tr>'+
+                                        '<th>Aktivitas</th>'+
+                                        '<th>Poin</th>'+
+                                        '<th>Keterangan</th>'+
+                                    '</tr>'+
+                                '</thead>'+
+                                '<tbody>'+
+                                    '<tr>'+
+                                        '<td>Login</td>'+
+                                        '<td>2 Poin</td>'+
+                                        '<td>Mahasiswa melakukan <i>login</i> pada website Open Library menggunakan akun yang telah terdaftar.</td>'+
+                                    '</tr>'+
+                                    '<tr>'+
+                                        '<td>Perpanjang Online</td>'+
+                                        '<td>3 Poin</td>'+
+                                        '<td>Mahasiswa melakukan Perpanjangan masa peminjaman buku yang sudah dipinjam secara <i>online</i>.</td>'+
+                                    '</tr>'+
+                                    '<tr>'+
+                                        '<td>Ulasan / Komentar</td>'+
+                                        '<td>3 Poin</td>'+
+                                        '<td>Mahasiswa memberikan ulasan / testimoni dan komentar pada suatu katalog.</td>'+
+                                    '</tr>'+
+                                    '<tr>'+
+                                        '<td>Usulan Katalog</td>'+
+                                        '<td>4 Poin</td>'+
+                                        '<td>Memberikan usulan katalog yang belum tersedia.</td>'+
+                                    '</tr>'+
+                                '</tbody>'+
+                            '</table>'+
+                        '</div>'
+
 
                     }
                 ]

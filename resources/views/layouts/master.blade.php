@@ -55,7 +55,7 @@
                     <ul class="nav navbar-nav navbar-right">
                     @if(session()->has('user'))
                             <li><a><strong>Selamat Datang!</strong> {{session()->get('nama')}}</a> </li>
-                            <a href="{{URL::to('logout')}}" class="btn btn-success exit" role="button">Exit</a>
+                            <a href="{{URL::to('logout')}}" class="btn btn-success exit" role="button">Keluar</a>
                     @else
                         <form class="navbar-form navbar-form-imtelkom form-inline navbar-right" method="post" action="/login">
                             <input  type="hidden" name="_token" value="{{ csrf_token() }}">
