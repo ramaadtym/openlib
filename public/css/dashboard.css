@@ -1,0 +1,142 @@
+body{
+    background: #FFFFFF url(/images/bg-repeater-home.png) left 30px repeat-x;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: #F4FAFF !important;
+    border-bottom: 1px solid #AACCEE;
+    height: 30px;
+    font: 12px Verdana;
+    font-weight: bold;
+    width: 100%;
+}
+.navbar-default .navbar-nav > li > a, .dropdown-menu > li > a {
+    color: #1F75CC;
+    font-size:12px;
+}
+.navbar-nav > li > a:hover{
+    background-color: #348DD3;
+    color: #FFF ;
+    text-decoration: none;
+}
+.navbar-nav > .open > a,  .navbar-nav > .open > a:hover,  .navbar-nav > .open > a:focus{
+    background-color: #348DD3;
+    color: #FFF;
+    text-decoration: none;
+}
+.dropdown-menu{
+    background-color: #F4FAFF;
+    border: 1px solid #AACCEE;
+}
+.dropdown-menu > li > a:hover{
+    background-color: #348DD3;
+    color: #FFF;
+
+}
+.katalog{
+    color: #0E65B5;
+    font-size: 11pt;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.konten{
+    border: 1px solid #AACCEE;
+    padding: 10px 10px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+.knowledge_item_title {
+    margin: 3px;
+    text-align: center;
+}
+tr td:first-child{
+    width:3%;
+    text-align:left;
+    white-space: nowrap;
+
+}
+.navbar-right > li > a{
+   height: 50px;
+
+}.navbar-right > li > a:hover{
+   background-color: #ac2925;
+
+}
+a:hover, a:focus{
+     text-decoration: none;
+ }
+
+.text{
+    font-size:11px;
+    color:#0E65B5;
+    font-weight: bold;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+    border-top:none;
+}
+a.btn.btn-danger.out:focus{
+    background-color:#ac2925;
+}
+.enambelas{
+    width:43%;
+}
+.error{
+    background-color: #ac2925;
+    color:#FFF;
+    padding:2%;
+}
+.rate1,.rate2,.rate3,.rate4,.rate5{
+    display: inline-block;
+    width: 70px;
+    height: 14px;
+}
+.rate1{
+    background-image: url("/images/rate1.png");
+}
+.rate2{
+    background-image: url("/images/rate2.png");
+}
+.rate3{
+    background-image: url("/images/rate3.png");
+}
+
+.rate4{
+    background-image: url("/images/rate4.png");
+}
+
+.rate5{
+    background-image: url("/images/rate5.png");
+}
+
+.komentar > p{
+    background-color:#dddddd;
+    font-size:12px;
+    padding:2%;
+    text-align: justify;
+    margin-top:2%;
+}
+.btn-usul,.tabel-usul{
+    margin-top:2%;
+}
+select[multiple]{
+    width:22em;
+}
+.aso,.btn-pindah{
+    float:left;
+}
+.unaso{
+    float:right;
+}
+.btn-pindah {
+    margin-top: 2.5em;
+    margin-left: 1.5em;
+}
+.help{
+    color:#848484;
+    padding-left:7em;
+    font-weight: bolder;
+}
+.exit{
+    margin-top:2%;
+}
