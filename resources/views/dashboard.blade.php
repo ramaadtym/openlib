@@ -20,13 +20,13 @@
                     <tbody>
                     <tr>
                         <td>
-                            <img src="images/buku/17.24.157.png"
+                            <img src="/images/buku/17.24.157.png"
                                  title="Analysis Factor of Motivation that Influence Drivers Who Using UBER Application in UBER, Bandung : Proceeding of ISCLO (International Seminar and Conference on Learning Organization), October 26th 2016"
                                  >
                             <div class="knowledge_item_title">17.24.157</div>
                         </td>
                         <td>
-                            <a href="https://openlibrary.telkomuniversity.ac.id/pustaka/135696/analysis-factor-of-motivation-that-influence-drivers-who-using-uber-application-in-uber-bandung-proceeding-of-isclo-international-seminar-and-conference-on-learning-organization-october-26th-2016.html"><b>Analysis Factor of Motivation that Influence Drivers Who Using UBER Application in UBER, Bandung : Proceeding of ISCLO (International Seminar and Conference on Learning Organization), October 26th 2016</b></a><br>
+                            <a href="/katalog/Analysis Factor of Motivation that Influence Drivers Who Using UBER Application in UBER Bandung"><b>Analysis Factor of Motivation that Influence Drivers Who Using UBER Application in UBER, Bandung : Proceeding of ISCLO (International Seminar and Conference on Learning Organization), October 26th 2016</b></a><br>
 
                             <div class="item_meta">
                                 <div class="meta_item_author">Rafi Achas Muhammad, Fetty Poerwita Sary</div>
@@ -65,7 +65,7 @@
                         </td>
                         <td>
 
-                            <a href="https://openlibrary.telkomuniversity.ac.id/pustaka/135697/international-research-journal-of-business-studies-vol-9-no-3-desember-2016-march-2017.html"><b>International Research Journal of Business Studies, Vol 9 No. 3 Desember 2016-March 2017</b></a><br>
+                            <a href="/katalog/International Research Journal of Business Studies, Vol 9 No. 3 Desember 2016-March 2017"><b>International Research Journal of Business Studies, Vol 9 No. 3 Desember 2016-March 2017</b></a><br>
 
                             <div class="item_meta">
                                 <div class="meta_item_author">Sulaimiah Sulaimiah, Et al.</div>

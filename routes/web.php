@@ -17,6 +17,7 @@ Route::get('/pinjam','DashboardController@pinjam');
 Route::get('/dashboard', 'DashboardController@index');
 Route::get('/full', 'DashboardController@full_site');
 Route::get('/book/{judul}', 'DashboardController@book');
+Route::get('/katalog/{judul}', 'DashboardController@komenkatalog');
 Route::put('/pjg', 'DashboardController@pjg');
 
 

@@ -47,7 +47,11 @@
                                 </div>
                             @endif
                         </li>
-                        <li><a href="#">Katalog</a></li>
+                        @if(session()->has('user'))
+                            <li><a href="/full">Katalog</a></li>
+                        @else
+                            <li><a href="#">Katalog</a></li>
+                        @endif
                         <li><a href="#">E-Publications</a></li>
                         <li><a href="/board">Leaderboard</a></li>
 

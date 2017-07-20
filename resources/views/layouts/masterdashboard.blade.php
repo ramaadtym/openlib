@@ -31,7 +31,7 @@
                  <li><a href="/dashboard">Home</a></li>
                  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Kategori & Katalog<span class="caret"></span></a>
                      <ul class="dropdown-menu" role="menu">
-                         <li><a href="#">Katalog</a></li>
+                         <li><a href="/full">Katalog</a></li>
                          <li><a href="/pinjam">Penelusuran Peminjaman</a></li>
                          <li><a href="/usulkatalog">Usulan katalog</a></li>
                          <li><a href="#">Notifikasi ketersediaan</a></li>
@@ -61,7 +61,13 @@
 
              </ul>
              <ul class="nav navbar-nav navbar-right">
-                 <li><a href="{{URL::to('logout')}}" class="btn btn-danger out" role="button">Keluar ({{session()->get('nama')}})</a></li>
+                 <li><a href="{{URL::to('logout')}}" class="btn btn-danger out" role="button">Keluar
+                         @if(session()->has('user'))
+                             ({{session()->get('nama')}})
+                         @else
+                            ({{session()->get('nama_adm')}})
+                         @endif
+                     </a></li>
              </ul>
          </div>
          <!-- /.navbar-collapse -->

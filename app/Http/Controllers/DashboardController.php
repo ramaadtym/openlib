@@ -93,6 +93,21 @@ class DashboardController extends Controller
 
         return view('book',['title' => $judul,'item' =>$data,'review' => $get_ulas]);
     }
+    public function komenkatalog($judul){
+         $data =  DB::table('book')
+            ->where('judul',$judul)
+            ->first();
+       /* dd($data);*/
+        $get_ulas = DB::table('ulasan')
+            ->join('book','book.id_book','=','ulasan.id_book')
+            ->join('users','users.id','=','ulasan.id')
+            ->where('judul',$judul)
+            ->select('ulasan','nama','rating','subjek')
+            ->get();
+        //dd($pilih_idbook);
+
+        return view('usulkatalog',['title' => $judul,'item' =>$data,'review' => $get_ulas]);
+    }
     public function logout(){
         $request->session()->flush();
         Auth::logout();

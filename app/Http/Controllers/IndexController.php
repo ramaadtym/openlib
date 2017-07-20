@@ -133,6 +133,8 @@ class IndexController extends Controller
                 return redirect()->intended('dashboard');
             }
             else{
+                $req->session()->put('user_adm', $getall->username);
+                $req->session()->put('nama_adm', $getall->nama);
                 return redirect()->intended('admin');
             }
             //$cekLogin = DB::table('users')->where(['username'=>$username])->get();
