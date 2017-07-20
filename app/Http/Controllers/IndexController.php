@@ -32,19 +32,6 @@ class IndexController extends Controller
             ->limit(5)
             ->get();
 
-        /*if(Auth::check()){
-            $id = Auth::user()->id;
-            $getrole= DB::table('users')->select('role')->where('id',$id)->first();
-            if($getrole->role =="member"){
-                return redirect()->intended('dashboard');
-            }
-            else{
-                return redirect()->intended('admin');
-            }
-        }
-        else{
-            return view('index')->with('poin',$data);
-        }*/
         if($request->session()->has('user')){
             return view('index')->with('poin',$data);
         }
@@ -116,15 +103,15 @@ class IndexController extends Controller
             $hari_ini = $login->last_login;
 
             $d2 = date_create("$hari_ini"); //create tgl sekarang, gunanya buat dimasukin ke date_diff
+            $f1 = $d2->format("Y-m-d");
             $beda = $d1->diff($d2); //kalkulasi perbandingan hari
             $conv_hari = $beda->format("%d"); //konversi perbandingan hari
-
             /*Kodingan buat nentuin waktu > 24 jam dalam menit (24 jam = 1440 menit)*/
-            $jam = $beda->format("%h");
+            /*$jam = $beda->format("%h");
             $menit = $beda->format("%i");
-            $menit_conv = ($jam * 60 + $menit) + ($conv_hari * 24 * 60);
+            $menit_conv = ($jam * 60 + $menit) + ($conv_hari * 24 * 60);*/
 
-            if($conv_hari >=1 && $menit_conv > 1440 ){
+            if($conv_hari >=1 || $hari_ini == null ){
                 $n = $get_last_reward->pts;
                 $poin = $n+2;
                 //$get_last_reward->pts = $poin;
@@ -133,7 +120,6 @@ class IndexController extends Controller
                     ->where('id', $id)
                     ->update(['last_point' => Carbon::now(),'pts'=>$poin]);
             }
-
 
             $login->last_login = Carbon::now(); //update last_login by tanggal hari ini
             $login->save();

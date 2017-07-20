@@ -20,9 +20,9 @@
                     <tbody>
                     <tr>
                         <td>
-                            <img src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.24.157.png"
+                            <img src="images/buku/17.24.157.png"
                                  title="Analysis Factor of Motivation that Influence Drivers Who Using UBER Application in UBER, Bandung : Proceeding of ISCLO (International Seminar and Conference on Learning Organization), October 26th 2016"
-                                 width="70">
+                                 >
                             <div class="knowledge_item_title">17.24.157</div>
                         </td>
                         <td>
@@ -60,7 +60,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <img src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.43.050.jpg" title="International Research Journal of Business Studies, Vol 9 No. 3 Desember 2016-March 2017" width="70">
+                            <img src="/images/buku/17.43.050.jpg" title="International Research Journal of Business Studies, Vol 9 No. 3 Desember 2016-March 2017">
                             <div class="knowledge_item_title">17.43.050</div>
                         </td>
                         <td>

@@ -63,10 +63,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/128050/slug/hbr-s-10-must-reads-on-emotional-intelligence.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 23/03
               </span>
-                                <img width="100%" title="HBR's 10 Must Reads on Emotional Intelligence" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.291.jpg">
+                                <img width="100%" title="HBR's 10 Must Reads on Emotional Intelligence" src="/images/buku/15036_500.png">
                                 <div class="caption">
                                     HBR's 10 Must Reads on..              </div>
                             </div>
@@ -76,10 +76,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/128070/slug/the-savage-way-successfully-navigating-the-waves-of-business-and-life.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 23/03
               </span>
-                                <img width="100%" title="The Savage Way: Successfully Navigating the Waves of Business and Life" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.295.jpg">
+                                <img width="100%" title="The Savage Way: Successfully Navigating the Waves of Business and Life" src="/images/buku/51b37lNrV9L._SX331_BO1,204,203,200_.jpg">
                                 <div class="caption">
                                     The Savage Way: Successfully Navigating..              </div>
                             </div>
@@ -89,10 +89,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/128066/slug/unleashing-creativity-and-innovation-nine-lessons-from-nature-for-enterprise-growth-and-career-success.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 23/03
               </span>
-                                <img width="100%" title="Unleashing Creativity and Innovation: Nine Lessons from Nature for Enterprise Growth and Career Success" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/default.jpg">
+                                <img width="100%" title="Unleashing Creativity and Innovation: Nine Lessons from Nature for Enterprise Growth and Career Success" src="/images/buku/1118768116.jpg">
                                 <div class="caption">
                                     Unleashing Creativity and Innovation: Nine..              </div>
                             </div>
@@ -102,10 +102,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/127567/slug/akuntansi-keuangan-menengah.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 16/03
               </span>
-                                <img width="100%" title="Akuntansi Keuangan Menengah" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.292.jpg">
+                                <img width="100%" title="Akuntansi Keuangan Menengah" src="/images/buku/514641_453839cd-beef-4772-975b-4fb1334ecd7f.jpg">
                                 <div class="caption">
                                     Akuntansi Keuangan Menengah              </div>
                             </div>
@@ -115,10 +115,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/127565/slug/hotel-management.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 16/03
               </span>
-                                <img width="100%" title="Hotel Management" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.290.jpg">
+                                <img width="100%" title="Hotel Management" src="/images/buku/51vQ3g5sqNL._AC_UL320_SR240,320_.jpg">
                                 <div class="caption">
                                     Hotel Management              </div>
                             </div>
@@ -128,10 +128,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/127568/slug/memulai-usaha-itu-gampang-.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 16/03
               </span>
-                                <img width="100%" title="Memulai Usaha Itu Gampang!" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.293.jpg">
+                                <img width="100%" title="Memulai Usaha Itu Gampang!" src="/images/buku/95526_f.jpg">
                                 <div class="caption">
                                     Memulai Usaha Itu Gampang!              </div>
                             </div>
@@ -143,10 +143,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/127552/slug/5-pilar-kepemimpinan-di-abad-21.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 15/03
               </span>
-                                <img width="100%" title="5 Pilar Kepemimpinan di Abad 21" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.288.jpg">
+                                <img width="100%" title="5 Pilar Kepemimpinan di Abad 21" src="/images/buku/9786026931047_5_pilar_kepemimpinan_di_abad_21.jpeg">
                                 <div class="caption">
                                     5 Pilar Kepemimpinan di Abad..              </div>
                             </div>
@@ -156,10 +156,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/127553/slug/al-wala-wal-bara-konsep-loyalitas-dan-permusuhan-dalam-islam.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 15/03
               </span>
-                                <img width="100%" title="Al-Wala’ Wal Bara’ Konsep Loyalitas Dan Permusuhan Dalam Islam" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.287.jpg">
+                                <img width="100%" title="Al-Wala’ Wal Bara’ Konsep Loyalitas Dan Permusuhan Dalam Islam" src="/images/buku/ALWALA-WAL-BARA-Terbaru-Jazera.jpg">
                                 <div class="caption">
                                     Al-Wala’ Wal Bara’ Konsep Loyalitas..              </div>
                             </div>
@@ -169,10 +169,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/122928/slug/simulasi-arduino.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 15/03
               </span>
-                                <img width="100%" title="Simulasi Arduino" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.020.jpg">
+                                <img width="100%" title="Simulasi Arduino" src="/images/buku/simulasi-arduino.jpg">
                                 <div class="caption">
                                     Simulasi Arduino              </div>
                             </div>
@@ -182,10 +182,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/127554/slug/thaifah-manshurah.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 15/03
               </span>
-                                <img width="100%" title="Thaifah Manshurah" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.289.png">
+                                <img width="100%" title="Thaifah Manshurah" src="/images/buku/3357482cab599bb4b1430eadea4e78cb.jpg">
                                 <div class="caption">
                                     Thaifah Manshurah              </div>
                             </div>
@@ -195,10 +195,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123961/slug/1-miliar-setiap-orang-bisa-menjadi-miliader.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="1 Miliar: Setiap orang bisa menjadi miliader" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.270.jpg">
+                                <img width="100%" title="1 Miliar: Setiap orang bisa menjadi miliader" src="/images/buku/9786023410156_1_miliar_setiap_orang_bisa_menjadi_miliader.jpg">
                                 <div class="caption">
                                     1 Miliar: Setiap orang bisa..              </div>
                             </div>
@@ -208,10 +208,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123978/slug/417-kesalahan-shalat.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="417 Kesalahan Shalat" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.279.jpg">
+                                <img width="100%" title="417 Kesalahan Shalat" src="/images/buku/417-KESALAHAN-SHALAT.jpg">
                                 <div class="caption">
                                     417 Kesalahan Shalat              </div>
                             </div>
@@ -223,10 +223,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123967/slug/be-an-optimist-banyak-bekerja-banyak-bicara-banyak-hasilnya.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="Be An Optimist! Banyak bekerja, banyak bicara, banyak hasilnya" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.273.jpg">
+                                <img width="100%" title="Be An Optimist! Banyak bekerja, banyak bicara, banyak hasilnya" src="/images/buku/BE_AN_OPTIMIST___BANYAK_KERJA__BANYAK_BICARA__BANYAK_HASILNY.jpg">
                                 <div class="caption">
                                     Be An Optimist! Banyak bekerja,..              </div>
                             </div>
@@ -236,10 +236,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123981/slug/dasar-dasar-kewirausahaan-teori-dan-praktik-2-e-.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="Dasar-Dasar Kewirausahaan Teori dan Praktik, 2/E." src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.282.jpg">
+                                <img width="100%" title="Dasar-Dasar Kewirausahaan Teori dan Praktik, 2/E." src="/images/buku/12739164184.jpg">
                                 <div class="caption">
                                     Dasar-Dasar Kewirausahaan Teori dan Praktik,..              </div>
                             </div>
@@ -249,10 +249,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123965/slug/demokrasi-di-tangan-netizen.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="Demokrasi di tangan Netizen" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.271.jpg">
+                                <img width="100%" title="Demokrasi di tangan Netizen" src="/images/buku/9786027936621_demokrasi_di_tangan_netizen.jpg">
                                 <div class="caption">
                                     Demokrasi di tangan Netizen              </div>
                             </div>
@@ -262,10 +262,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123975/slug/halaqah-cinta-follow-your-prophet-find-your-true-love.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="Halaqah Cinta: Follow your prophet, find your true love" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.276.jpg">
+                                <img width="100%" title="Halaqah Cinta: Follow your prophet, find your true love" src="/images/buku/203322500_xl_1.jpg">
                                 <div class="caption">
                                     Halaqah Cinta: Follow your prophet,..              </div>
                             </div>
@@ -275,10 +275,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123973/slug/khalifah-remake.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="Khalifah Remake" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.274.jpg">
+                                <img width="100%" title="Khalifah Remake" src="/images/buku/23510858.jpg">
                                 <div class="caption">
                                     Khalifah Remake              </div>
                             </div>
@@ -288,10 +288,10 @@
                         <a class="thumbnail-imtelkom" href="/home/catalog/id/123992/slug/konsep-dan-analisis-rasio-pajak.html">
                             <div class="thumbnail">
                             <span class="label label-info label-imtelkom">
-                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="fa fa-calendar"></span>
                 14/03
               </span>
-                                <img width="100%" title="Konsep dan Analisis Rasio Pajak" src="https://openlibrary.telkomuniversity.ac.id/uploads/book/cover/17.01.284.jpg">
+                                <img width="100%" title="Konsep dan Analisis Rasio Pajak" src="/images/buku/konsep-analisis-rasio-pajak.jpg">
                                 <div class="caption">
                                     Konsep dan Analisis Rasio Pajak              </div>
                             </div>
