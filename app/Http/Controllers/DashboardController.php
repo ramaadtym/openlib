@@ -64,7 +64,7 @@ class DashboardController extends Controller
             ->where('id',$id_user)
             ->update(['pts' => $newpoin]);
 
-            return redirect()->intended('dashboard');
+            return redirect()->intended('pinjam');
         }
 
         else if($conv_hari > 7){

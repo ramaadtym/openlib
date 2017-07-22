@@ -76,7 +76,7 @@
                             '        <div class="panel-heading text">Member</div>' +
                             '             <div class="panel-body">' +
                             '                <div class="form-group">' +
-                            '                     <label for="focusedInput" class="control-label col-sm-1">Anggota</label>' +
+                            '                     <label for="focusedInput" class="control-label col-sm-1 col-md-2 col-lg-2">Anggota</label>' +
                             '                     <div class="col-sm-10">' +
                             '                       <input  type="text" name="username" value="{{$item->nama}}"  class="form-control" readonly>' +
                             '                     </div>' +
@@ -87,25 +87,25 @@
                             '           <div class="panel-heading text">Permintaan Katalog</div>' +
                             '              <div class="panel-body">' +
                             '                <div class="form-group">' +
-                            '                   <label for="focusedInput" class="control-label col-sm-1">Judul</label>' +
+                            '                   <label for="focusedInput" class="control-label col-sm-1 col-md-2 col-lg-2">Judul</label>' +
                             '                    <div class="col-sm-10">' +
                             '                       <input type="text" name="judul" class="form-control">' +
                             '                    </div>' +
                             '                </div>' +
                             '                <div class="form-group">' +
-                            '                   <label for="focusedInput" class="control-label col-sm-1">Pengarang</label>' +
+                            '                   <label for="focusedInput" class="control-label col-sm-1 col-md-2 col-lg-2">Pengarang</label>' +
                             '                    <div class="col-sm-10">' +
                             '                       <input type="text" name="pengarang" class="form-control">' +
                             '                    </div>' +
                             '                </div>'+
                             '                <div class="form-group">' +
-                            '                   <label for="focusedInput" class="control-label col-sm-1">Penerbit</label>' +
+                            '                   <label for="focusedInput" class="control-label col-sm-1 col-md-2 col-lg-2">Penerbit</label>' +
                             '                    <div class="col-sm-10">' +
                             '                       <input type="text" name="penerbit" class="form-control">' +
                             '                    </div>' +
                             '                </div>'+
                             '                <div class="form-group">' +
-                            '                   <label for="focusedInput" class="control-label col-sm-1">Deskripsi</label>' +
+                            '                   <label for="focusedInput" class="control-label col-sm-1 col-md-2 col-lg-2">Deskripsi</label>' +
                             '                    <div class="col-sm-10">' +
                             '                    <textarea class="form-control enambelas" name="deskripsi" rows="5" id="comment"></textarea>' +
                             '                    </div>' +
@@ -116,7 +116,7 @@
                             '           <div class="panel-heading text">Instansi</div>' +
                             '              <div class="panel-body">' +
                             '                <div class="form-group">' +
-                            '                   <label for="focusedInput" class="control-label col-sm-1">Unit</label>' +
+                            '                   <label for="focusedInput" class="control-label col-sm-1 col-md-2 col-lg-2">Unit</label>' +
                             '                    <div class="col-sm-10">' +
                             '                       <select name="unit" class="form-control" onchange="showKompetensi(this.value)">' +
                                                     @foreach($prodi as $prog)
@@ -126,7 +126,7 @@
                             '                    </div>' +
                             '                </div>' +
                             '                <div class="form-group">' +
-                            '                   <label for="focusedInput" class="control-label col-sm-1">Kompetensi</label>' +
+                            '                   <label for="focusedInput" class="control-label col-sm-1 col-md-2 col-lg-2">Kompetensi</label>' +
                             '                     <div class="col-sm-10">' +
                             '                       <input type="text" name="kompetensi" placeholder="isi dengan kode dan matakuliah" class="form-control">' +
                             '                    </div>' +

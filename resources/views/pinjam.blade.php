@@ -100,7 +100,8 @@
                             '   <input  type="hidden" name="idpinjam" value="{{$record->id_pinjam}}">' +
                             '   <div class="form-group">' +
                             '       <label for="focusedInput">Perpanjang s.d</label>' +
-                            '       <input type="date" name="perpanjang" class="form-control">' +
+                            '       <input type="date" name="perpanjang"  class="form-control">' +
+                            '       <span class="help-block">Format: DD/MM/YYYY</span>' +
                             '   </div>' +
                             '   <button type="submit" class="btn btn-primary btn-lg">Perpanjang</button>' +
                             '</form>'

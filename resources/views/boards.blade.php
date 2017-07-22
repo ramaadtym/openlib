@@ -122,10 +122,14 @@
             'reward': {
                 args: [
                     {
+                        <?php
+                            $monday = strtotime('last monday', strtotime('tomorrow'));
+                            $sunday = strtotime('+6 days', $monday);
+                        ?>
                         title: '',
                         content:
-                        '<img src="/images/reward.png" class="img-responsive reward-ribbon animated flipInX">' +
-                        '<p> Periode: 5 Juni - 11 Juni 2017 </p>' +
+                        '<img src="/images/Reward.png" class="img-responsive reward-ribbon animated flipInX">' +
+                        '<p> <?php echo "<p> Periode: ". date('d M Y', $monday) . " s.d. " . date('d M Y', $sunday) . "</p>"; ?> </p>' +
                         '<div class="row rewards">' +
                         '   <div class="col-md-4">' +
                         '   <img src="/images/1.png" class="satu">' +
